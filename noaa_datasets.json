@@ -1,0 +1,290 @@
+{
+    "GDAS" : {
+        "id" : "filter_fnl.pl",
+        "subdir": "gdas"
+    },
+    "GDAS 0.25" : {
+        "id" : "filter_gdas_0p25.pl",
+        "subdir": "gdas"
+    },
+    "GFS 0.25 Degree" : {
+        "id" : "filter_gfs_0p25.pl",
+        "subdir": "gfs"
+    },
+    "GFS 0.25 Degree Hourly" : {
+        "id" : "filter_gfs_0p25_1hr.pl",
+        "subdir": "gfs"
+    },
+    "GFS 0.25 Degree (Secondary Parms)" : {
+        "id" : "filter_gfs_0p25b.pl",
+        "subdir": "gfs"
+    },
+    "GFS 0.50 Degree" : {
+        "id" : "filter_gfs_0p50.pl",
+        "subdir": "gfs"
+    },
+    "GFS 1.00 Degree" : {
+        "id" : "filter_gfs_1p00.pl",
+        "subdir": "gfs"
+    },
+    "GFS sflux" : {
+        "id" : "filter_gfs_sflux.pl",
+        "subdir": "gfs"
+    },
+    "GFS Ensemble 1.00 Degree" : {
+        "id" : "filter_gens.pl",
+        "subdir": "gefs"
+    },
+    "GFS Ensemble 0.50 Degree" : {
+        "id" : "filter_gens_0p50.pl",
+        "subdir": "gefs"
+    },
+    "GFS Ensemble Precip Bias-Corrected" : {
+        "id" : "filter_gensbc_precip.pl",
+        "subdir": "gefs"
+    },
+    "GFS Ensemble 0.5 Degree Bias-Corrected" : {
+        "id" : "filter_gensbc.pl",
+        "subdir": "gefs"
+    },
+    "GFS Ensemble NDGD resolution Bias-Corrected" : {
+        "id" : "filter_gensbc_ndgd.pl",
+        "subdir": "gefs"
+    },
+    "NAEFS high resolution Bias-Corrected" : {
+        "id" : "filter_naefsbc.pl",
+        "subdir": "naefs"
+    },
+    "NAEFS NDGD resolution Bias-Corrected" : {
+        "id" : "filter_naefsbc_ndgd.pl",
+        "subdir": "naefs"
+    },
+    "NGAC 2D Products" : {
+        "id" : "filter_ngac_a2d.pl",
+        "subdir" : "ngac"
+    },
+    "NGAC 3D Products" : {
+        "id" : "filter_ngac_a3d.pl",
+        "subdir" : "ngac"
+    },
+    "NGAC Aerosol Optical Depth Products" : {
+        "id" : "filter_ngac_aod.pl",
+        "subdir" : "ngac"
+    },
+    "AQM Daily Maximum" : {
+        "id" : "filter_aqm_daily.pl",
+        "subdir" : "aqm"
+    },
+    "AQM Hourly Surface Ozone" : {
+        "id" : "filter_aqm_ozone_1hr.pl",
+        "subdir" : "aqm"
+    },
+    "HIRESW Alaska" : {
+        "id" : "filter_hiresak.pl",
+        "subdir" : "hiresw"
+    },
+    "HIRESW CONUS" : {
+        "id" : "filter_hiresconus.pl",
+        "subdir" : "hiresw"
+    },
+    "HIRESW Guam" : {
+        "id" : "filter_hiresguam.pl",
+        "subdir" : "hiresw"
+    },
+    "HIRESW Hawaii" : {
+        "id" : "filter_hireshi.pl",
+        "subdir" : "hiresw"
+    },
+    "HIRESW Puerto Rico" : {
+        "id" : "filter_hirespr.pl",
+        "subdir" : "hiresw"
+    },
+    "HREF Alaska" : {
+        "id" : "filter_hrefak.pl",
+        "subdir" : "href"
+    },
+    "HREF CONUS" : {
+        "id" : "filter_hrefconus.pl",
+        "subdir" : "href"
+    },
+    "HREF Hawaii" : {
+        "id" : "filter_hrefhi.pl",
+        "subdir" : "href"
+    },
+    "HREF Puerto Rico " : {
+        "id" : "filter_hrefpr.pl",
+        "subdir" : "href"
+    },
+    "HRRR" : {
+        "id" : "filter_hrrr_2d.pl",
+        "subdir" : "hrrr"
+    },
+    "HRRR Sub Hourly" : {
+        "id" : "filter_hrrr_sub.pl",
+        "subdir" : "hrrr"
+    },
+    "HRRR AK" : {
+        "id" : "filter_hrrrak_2d.pl",
+        "subdir" : "hrrr"
+    },
+    "HRRR AK Sub Hourly" : {
+        "id" : "filter_hrrrak_sub.pl",
+        "subdir" : "hrrr"
+    },
+    "HWRF" : {
+        "id" : "filter_hwrf.pl",
+        "subdir" : "hwrf"
+    },
+    "NAM Alaska Pressure Level Vars (11.25km)" : {
+        "id" : "filter_nam_ak.pl",
+        "subdir" : "nam"
+    },
+    "NAM Alaska Surface Vars (11.25km)" : {
+        "id" : "filter_nam_ak.pl",
+        "subdir" : "nam"
+    },
+    "NAM CONUS (12km)" : {
+        "id" : "filter_nam.pl",
+        "subdir" : "nam"
+    },
+    "NAM North America (32km)" : {
+        "id" : "filter_nam_na.pl",
+        "subdir" : "nam"
+    },
+    "NAM Caribbean/Central America" : {
+        "id" : "filter_nam_crb.pl",
+        "subdir" : "nam"
+    },
+    "NAM Pacific" : {
+        "id" : "filter_nam_pac.pl",
+        "subdir" : "nam"
+    },
+    "NAM NEST Alaska" : {
+        "id" : "filter_nam_alaskanest.pl",
+        "subdir" : "nam"
+    },
+    "NAM NEST CONUS" : {
+        "id" : "filter_nam_conusnest.pl",
+        "subdir" : "nam"
+    },
+    "NAM NEST HAWAII" : {
+        "id" : "filter_nam_hawaiinest.pl",
+        "subdir" : "nam"
+    },
+    "NAM NEST Puerto Rico" : {
+        "id" : "filter_nam_priconest.pl",
+        "subdir" : "nam"
+    },
+    "RTMA ALASKA" : {
+        "id" : "filter_akrtma.pl",
+        "subdir" : "akrtma"
+    },
+    "RTMA2.5 CONUS" : {
+        "id" : "filter_rtma2p5.pl",
+        "subdir" : "rtma2p5"
+    },
+    "RTMA CONUS Rapid Update" : {
+        "id" : "filter_rtma_ru.pl",
+        "subdir" : "rtma2p5_ru"
+    },
+    "RTMA Guam" : {
+        "id" : "filter_gurtma.pl",
+        "subdir" : "gurtma"
+    },
+    "RTMA Hawaii" : {
+        "id" : "filter_hirtma.pl",
+        "subdir" : "hirtma"
+    },
+    "RTMA Puerto Rico" : {
+        "id" : "filter_prrtma.pl",
+        "subdir" : "prrtma"
+    },
+    "RAP" : {
+        "id" : "filter_rap.pl",
+        "subdir" : "rap"
+    },
+    "RAP 32km North America" : {
+        "id" : "filter_rap32.pl",
+        "subdir" : "rap"
+    },
+    "RAP Eastern North Pacific" : {
+        "id" : "filter_rap243.pl",
+        "subdir" : "rap"
+    },
+    "NARRE" : {
+        "id" : "filter_narre.pl",
+        "subdir" : "narre"
+    },
+    "SREF CONUS (40km)" : {
+        "id" : "filter_sref.pl",
+        "subdir" : "sref"
+    },
+    "SREF CONUS (40km) Bias-Corrected" : {
+        "id" : "filter_srefbc.pl",
+        "subdir" : "sref"
+    },
+    "SREF North America (32km)" : {
+        "id" : "filter_sref_na.pl",
+        "subdir" : "sref"
+    },
+    "SREF North America (16km)" : {
+        "id" : "filter_sref_132.pl",
+        "subdir" : "sref"
+    },
+    "Climate Forecast System Flux Products" : {
+        "id" : "filter_cfs_flx.pl",
+        "subdir" : "cfs"
+    },
+    "Climate Forecast System 3D Pressure Products" : {
+        "id" : "filter_cfs_pgb.pl",
+        "subdir" : "cfs"
+    },
+    "Sea Ice" : {
+        "id" : "filter_seaice.pl",
+        "subdir" : "sice"
+    },
+    "Wave" : {
+        "id" : "filter_wave.pl",
+        "subdir" : "multi_1"
+    },
+    "Great Lake Wave" : {
+        "id" : "filter_glwu.pl",
+        "subdir" : "glwu"
+    },
+    "Multi-grid Wave" : {
+        "id" : "filter_wave_multi.pl",
+        "subdir" : "multi_1"
+    },
+    "Global Wave Ensemble System" : {
+        "id" : "filter_wave_gwes.pl",
+        "subdir" : "gwes"
+    },
+    "NCEP and FNMOC Combined Ensemble Wave" : {
+        "id" : "filter_nfcens.pl",
+        "subdir" : "nfcens"
+    },
+    "ESTOFS Atlantic" : {
+        "id" : "filter_estofs_atl.pl",
+        "subdir" : "estofs_atl"
+    },
+    "ESTOFS Pacific" : {
+        "id" : "filter_estofs_pac.pl",
+        "subdir" : "estofs_pac"
+    },
+    "ESTOFS Micronesia" : {
+        "id" : "filter_estofs_mic.pl",
+        "subdir" : "estofs_mic"
+    },
+    "CMC Ensemble" : {
+        "id" : "filter_cmcens.pl",
+        "subdir" : "cmce"
+    },
+    "FNMOC Ensemble and Bias Corrected" : {
+        "id" : "filter_fens.pl",
+        "subdir" : "fens"
+    },
+    "557ww Ensemble": {
+        "id" : "filter_557ww.pl",
+        "subdir" : "557ww"
+    }
+}
